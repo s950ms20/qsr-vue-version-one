@@ -2,6 +2,15 @@
 
 > A Vue.js project
 
+New project - blog / store made for my firends.
+
+Vue.js
++ 
+firebase: 
+FireStore - database,
+Storage - images hosting,
+Authentication - login to admin section
+
 ## Build Setup
 
 ``` bash
